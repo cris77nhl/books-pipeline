@@ -1,32 +1,32 @@
 {
   "filas_por_fuente": {
-    "goodreads": 30,
-    "googlebooks": 29,
-    "dim_book": 29
+    "goodreads": 15,
+    "googlebooks": 12,
+    "dim_book": 13
   },
   "pct_titulo_no_nulo": 1.0,
-  "pct_isbn13_no_nulo": 0.9310344827586207,
-  "pct_precio_no_nulo": 0.10344827586206896,
+  "pct_isbn13_no_nulo": 0.9230769230769231,
+  "pct_precio_no_nulo": 0.46153846153846156,
   "nulos_por_campo": {
     "book_id": 0,
-    "isbn13": 2,
-    "isbn10": 2,
+    "isbn13": 1,
+    "isbn10": 1,
     "title": 0,
-    "subtitle": 7,
+    "subtitle": 6,
     "authors": 0,
     "publisher": 3,
-    "pub_date_iso": 0,
-    "pub_year": 0,
-    "language": 0,
+    "pub_date_iso": 1,
+    "pub_year": 1,
+    "language": 1,
     "categories": 0,
-    "price_amount": 26,
-    "price_currency": 26,
+    "price_amount": 7,
+    "price_currency": 7,
     "gr_rating": 0,
     "gr_ratings_count": 0,
-    "gb_id": 0,
+    "gb_id": 1,
     "gr_book_url": 0,
     "source_winner": 0,
     "ts_last_update": 0
   },
-  "duplicados_isbn13": 1
+  "duplicados_isbn13": 0
 }

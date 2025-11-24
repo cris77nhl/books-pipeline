@@ -26,7 +26,6 @@ books-pipeline/
 ├─ utils_quality.py
 └─ utils_isbn.py
 
-text
 
 ---
 
@@ -78,7 +77,6 @@ Instala dependencias:
 
 pip install -r requirements.txt
 
-text
 
 Ejecuta paso a paso (desde raíz del repo):
 
@@ -86,13 +84,11 @@ python src/scrape_goodreads.py
 python src/enrich_googlebooks.py
 python src/integrate_pipeline.py
 
-text
 O si tienes problemas con los imports:
 python -m src.scrape_goodreads
 python -m src.enrich_googlebooks
 python -m src.integrate_pipeline
 
-text
 
 ---
 
